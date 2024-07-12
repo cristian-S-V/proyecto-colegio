@@ -1,0 +1,3 @@
+[submodule "colegio-proyect"]
+	path = colegio-proyect
+	url = https://github.com/tu-usuario/colegio-proyect.git
